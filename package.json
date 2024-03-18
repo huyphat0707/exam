@@ -1,0 +1,15 @@
+{
+  "name": "exam_online",
+  "version": "1.0.0",
+  "description": "exam online ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cris",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.1.0",
+    "sequelize": "^6.37.1"
+  }
+}
